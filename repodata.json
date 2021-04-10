@@ -1,0 +1,59 @@
+{
+  "Yitik Kawatra": [
+    { "reponame": "spectrum-articles", "stars": "0", "commits": "4" },
+    {
+      "reponame": "Awesome-JavaScript-Projects",
+      "stars": "0",
+      "commits": "350"
+    },
+    { "reponame": "makesmatheasy.github.io", "stars": "0", "commits": "117" },
+    { "reponame": "Algo-Phantoms-Frontend", "stars": "0", "commits": "42" },
+    { "reponame": "pixelvibe", "stars": "0", "commits": "43" },
+    { "reponame": "Notes-App", "stars": "0", "commits": "3" },
+    { "reponame": "Car_animation", "stars": "0", "commits": "1" },
+    { "reponame": "Analog-Clock", "stars": "0", "commits": "1" },
+    { "reponame": "ieee-spectrum", "stars": "0", "commits": "1" },
+    { "reponame": "Invisible_cloak", "stars": "0", "commits": "1" },
+    { "reponame": "random-quote-machine", "stars": "0", "commits": "2" },
+    { "reponame": "image-finder", "stars": "0", "commits": "2" },
+    { "reponame": "Url-Shortener", "stars": "0", "commits": "1" },
+    { "reponame": "IEEEDAY", "stars": "0", "commits": "7" },
+    { "reponame": "Hack-The-Hourglass", "stars": "0", "commits": "44" },
+    { "reponame": "msk-components", "stars": "0", "commits": "24" },
+    { "reponame": "web-dev", "stars": "0", "commits": "11" },
+    { "reponame": "Open-Source-Challenge", "stars": "0", "commits": "118" },
+    { "reponame": "boilerplate-npm", "stars": "0", "commits": "13" },
+    { "reponame": "Recursion", "stars": "0", "commits": "2" },
+    { "reponame": "Hacktoberfest2019", "stars": "0", "commits": "12" }
+  ],
+  "Diego Muracciole": [
+    { "reponame": "react-pdf", "stars": "8.9k", "commits": "604" },
+    { "reponame": "react-portalgun", "stars": "72", "commits": "49" },
+    { "reponame": "flexbox-js", "stars": "7", "commits": "53" },
+    { "reponame": "VaxGame", "stars": "0", "commits": "294" },
+    { "reponame": "thanks", "stars": "1", "commits": "252" },
+    { "reponame": "yoga", "stars": "1", "commits": "1,643" },
+    { "reponame": "react-fs", "stars": "0", "commits": "6" },
+    { "reponame": "native-component-list", "stars": "0", "commits": "258" },
+    { "reponame": "react-recipes", "stars": "2", "commits": "43" },
+    { "reponame": "media-engine", "stars": "10", "commits": "25" },
+    { "reponame": "react-log", "stars": "556", "commits": "86" },
+    {
+      "reponame": "journey-react-renderers-slides",
+      "stars": "2",
+      "commits": "39"
+    },
+    { "reponame": "twitter-cli", "stars": "0", "commits": "4" },
+    { "reponame": "png.js", "stars": "0", "commits": "32" },
+    { "reponame": "bespoke-react", "stars": "56", "commits": "17" },
+    { "reponame": "electron-react-starterkit", "stars": "2", "commits": "2" },
+    { "reponame": "basscss-eight-point-grid", "stars": "0", "commits": "2" },
+    { "reponame": "react-pdf-slides", "stars": "0", "commits": "4" },
+    { "reponame": "functional-css-slides", "stars": "1", "commits": "5" },
+    { "reponame": "visual-regression-slides", "stars": "0", "commits": "1" },
+    { "reponame": "react", "stars": "0", "commits": "7,994" },
+    { "reponame": "think-react-slides", "stars": "0", "commits": "3" },
+    { "reponame": "react-redux-slides", "stars": "1", "commits": "10" },
+    { "reponame": "clipboard-css", "stars": "0", "commits": "9" }
+  ]
+}
